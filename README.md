@@ -30,3 +30,4 @@
 ## References
 - [Web Animations APIの基本的な使い方・まとめ](http://www.h2.dion.ne.jp/~defghi/webanim/webanim.htm)
 - [真面目なアニメーション (html5j 2013, Web Animations)](http://www.slideshare.net/brianskold/html5j-2013)
+- [モバイルアプリのUI設計に大切な、7つの基本アニメーションまとめ](http://photoshopvip.net/88490)
