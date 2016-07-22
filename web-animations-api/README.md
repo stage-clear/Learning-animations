@@ -33,3 +33,4 @@
 - [Web Animations APIの基本的な使い方・まとめ](http://www.h2.dion.ne.jp/~defghi/webanim/webanim.htm)
 - [真面目なアニメーション (html5j 2013, Web Animations)](http://www.slideshare.net/brianskold/html5j-2013)
 - [web-animations-jsで策定中のAPIを先取りする](http://qiita.com/haribote/items/a8fc84d6cc2fd4abbf72)
+- [Alice in Web Animations API Land](http://www.slideshare.net/CrowChick/alice-in-web-animations-api-land)
