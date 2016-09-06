@@ -2,6 +2,8 @@
 
 ## Menu
 - [Web Animations API](./web-animations-api)
+
+## Snippets
 - [Parallax](./parallax)
 
 ## How to Animating on the web
@@ -16,3 +18,11 @@
 - [Web Animation Past, Present, and Future](http://alistapart.com/article/web-animation-past-present-and-future)
 - [モバイルアプリのUI設計に大切な、7つの基本アニメーションまとめ](http://photoshopvip.net/88490)
 - [ユーザーが信頼できるUIデザインをつくる、7つの基本ポイントまとめ](http://photoshopvip.net/86590)
+- [Web Animations: why and when to use them, and some demos we wrote](https://soledadpenades.com/2016/08/09/web-animations-why-and-when-to-use-them-and-some-demos-we-wrote/)
+
+## Tutorials and Demos
+- [Let's talk about the Web Animation API](http://www.danielcwilson.com/blog/2015/07/animations-intro/)
+
+## Links
+- [Web Animation API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API) - MDN
+- [Animation API browser support test](http://codepen.io/danwilson/pen/xGBKVq)
