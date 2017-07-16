@@ -1,30 +1,4 @@
-# About "Web animations API"
-
-## Features
-
-|    | CSS | SVG | Web Animations |
-|:---|:---:|:---:|:--------------:|
-|自動再生|✔||||
-|アニメーションの方向|✔||✔|
-|反復|✔|✔|✔|
-|キーフレームアニメーション|✔|✔|✔|
-|イージング（タイミング関数）|✔|✔|✔|
-|フィルモード|✔|✔|✔|
-|イベント|✔|✔|✔|
-|加法的アニメーション||✔|✔|
-|累積アニメーション||✔|✔|
-|モーションパス||✔|✔|
-|絶対時間値||✔|✔|
-|休止制御||✔|✔|
-|時間制御||✔|✔|
-|syncbase タイミング||✔||
-|イベントタイミング||✔||
-|複数の時区間||✔||
-|wallclock タイミング||✔||
-|同期グループ|||✔|
-|速度制御|||✔|
-|カスタム効果|||✔|
-|開始位置|||✔|
+# Web animations API
 
 ## References
 - [Web Animations](https://www.w3.org/TR/web-animations/) - W3
@@ -34,3 +8,4 @@
 - [真面目なアニメーション (html5j 2013, Web Animations)](http://www.slideshare.net/brianskold/html5j-2013)
 - [web-animations-jsで策定中のAPIを先取りする](http://qiita.com/haribote/items/a8fc84d6cc2fd4abbf72)
 - [Alice in Web Animations API Land](http://www.slideshare.net/CrowChick/alice-in-web-animations-api-land)
+- [Webアニメ実装の常識を変えるWeb Animations API とは?](https://www.webprofessional.jp/bringing-pages-to-life-web-animations-api/)
