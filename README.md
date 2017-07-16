@@ -21,6 +21,7 @@
 - [Web Animations: why and when to use them, and some demos we wrote](https://soledadpenades.com/2016/08/09/web-animations-why-and-when-to-use-them-and-some-demos-we-wrote/)
 - [FLIPping Awesome Animations](http://slides.com/davidkhourshid/flip#/)
 - [Repeatable, Staggered Animation Three Ways: Sass, GSAP and WAAPI](https://css-tricks.com/repeatable-staggered-animation-three-ways-sass-gsap-web-animations-api/)
+- [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29)
 
 ## Tutorials and Demos
 - [ ] [Let's talk about the Web Animation API](http://www.danielcwilson.com/blog/2015/07/animations-intro/)
